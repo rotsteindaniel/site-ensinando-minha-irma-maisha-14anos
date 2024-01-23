@@ -1,4 +1,6 @@
-# Experiência Empolgante de Desenvolvimento de Site com Maisha (minha irmã de 14 anos) 🌟
+# Desenvolvimento de Site com Maisha (minha irmã de 14 anos) 🌟
+
+https://github.com/rotsteindaniel/site-ensinando-minha-irma-maisha-14anos/assets/97666187/eb16e12f-766f-4e6b-a588-6990f0f145ce
 
 No último fim de semana, embarquei em uma jornada inspiradora de criação de um site simples ao lado da minha irmã, Maisha, uma jovem de 14 anos cheia de curiosidade e entusiasmo. O impulso para esse projeto surgiu em uma madrugada cheia de perguntas sobre como o Google e o Chat GPT funcionavam.
 
